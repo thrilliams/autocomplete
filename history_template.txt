@@ -1,0 +1,3 @@
+search terms are seperated by linebreaks
+without any regard for punctuation or capitalization
+https://chrome.google.com/webstore/detail/export-history/hcohnnbbiggngobheobhdipbgmcbelhh
